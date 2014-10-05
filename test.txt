@@ -5,7 +5,7 @@ git config user.name "karoons"
 git cinfig user.email "k.sillapapam@gmial.com"
 git status
 git add README.txt
-git commit -m "Create Project"
+git commit -a -m "Create Project"
 git log
 git log -2
 git show -2
