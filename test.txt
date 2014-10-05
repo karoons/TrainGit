@@ -1,6 +1,16 @@
 TEST 2
 -----
+git init
+git config user.name "karoons"
+git cinfig user.email "k.sillapapam@gmial.com"
+git status
+git add README.txt
+git commit -m "Create Project"
+git log
+git log -2
+git show -2
 
-
-???xxxxx
-plk;lkfd;gr;;dvcxvc
+ssh-keygen -t rsa
+git remote add origin git@github.com:karoons/TrainGit.git
+git remote set-url origin https://github.com/karoons/TrainGit.git
+git remote -v
