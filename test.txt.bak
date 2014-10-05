@@ -14,5 +14,3 @@ ssh-keygen -t rsa
 git remote add origin git@github.com:karoons/TrainGit.git
 git remote set-url origin https://github.com/karoons/TrainGit.git
 git remote -v
-
-s
