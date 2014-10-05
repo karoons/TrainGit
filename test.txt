@@ -15,4 +15,12 @@ git remote add origin git@github.com:karoons/TrainGit.git
 git remote set-url origin https://github.com/karoons/TrainGit.git
 git remote -v
 
-s
+git branch develop
+git branch
+git branch -a
+git checkout develop
+.gitignore
+git merger develop
+git add -A (Add All)
+git push origin master
+git push origin develop
